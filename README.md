@@ -30,7 +30,7 @@ I am a frontend software engineer based in South Korea. During the past 3 years 
 
 ### Let's connect 🤝
 
-<a href="https://www.linkedin.com/in/younjiwoo/" >LinkedIn</a> 
+<a href="https://www.linkedin.com/in/younjiwoo/" >LinkedIn</a> or 
 <a href="mailto:younjiwoo@gmail.com" >Email</a>
 
 
